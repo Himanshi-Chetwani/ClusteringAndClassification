@@ -1,0 +1,464 @@
+	title	tconst	averageRating	numVotes	region	language	isOriginalTitle	titleType	isAdult	runtimeMinutes	genres
+1	3 Ninjas	tt0103596	5.3	18833	BR	NA	0	movie	0	84	Action,Comedy,Family
+2	3 Ninjas	tt0103596	5.3	18833	NA	NA	1	movie	0	84	Action,Comedy,Family
+3	3 Ninjas	tt0103596	5.3	18833	US	NA	0	movie	0	84	Action,Comedy,Family
+4	Aces	tt0103617	3.5	2554	US	NA	0	movie	0	98	Action
+5	Aces	tt0460703	2.6	449	NA	NA	1	movie	0	88	Action,Drama
+6	Aces	tt0460703	2.6	449	US	NA	0	movie	0	88	Action,Drama
+7	Adrenalin	tt0353164	7.2	230	DK	NA	0	short	0	40	Documentary,Short
+8	Adrenalin	tt0115471	4	3218	NA	NA	0	movie	0	77	Action,Sci-Fi,Thriller
+9	Adrenalin	tt0115471	4	3218	HU	NA	0	movie	0	77	Action,Sci-Fi,Thriller
+10	Adrenalin	tt0115471	4	3218	MX	NA	0	movie	0	77	Action,Sci-Fi,Thriller
+11	Adrenalin	tt0479884	7	222159	SI	NA	0	movie	0	88	Action,Crime,Thriller
+12	Adrenalin	tt0318276	3.7	447	RS	NA	0	movie	0	NA	Crime,Drama,Romance
+13	Adrenalin	tt0479884	7	222159	RS	NA	0	movie	0	88	Action,Crime,Thriller
+14	Air Bud	tt0118570	5.2	15218	ES	NA	0	movie	0	98	Comedy,Drama,Family
+15	Air Bud	tt0118570	5.2	15218	US	NA	0	movie	0	98	Comedy,Drama,Family
+16	Air Bud	tt0118570	5.2	15218	NA	NA	1	movie	0	98	Comedy,Drama,Family
+17	Air Bud	tt0118570	5.2	15218	GR	NA	0	movie	0	98	Comedy,Drama,Family
+18	Amityville	tt0384806	6	99434	RO	NA	0	movie	0	90	Drama,Horror,Mystery
+19	Amityville	tt0384806	6	99434	RO	NA	0	movie	0	90	Drama,Horror,Mystery
+20	Amityville	tt0384806	6	99434	PL	NA	0	movie	0	90	Drama,Horror,Mystery
+21	Amityville	tt0384806	6	99434	PL	NA	0	movie	0	90	Drama,Horror,Mystery
+22	Amityville	tt0384806	6	99434	FR	NA	0	movie	0	90	Drama,Horror,Mystery
+23	Amityville	tt0384806	6	99434	FR	NA	0	movie	0	90	Drama,Horror,Mystery
+24	Austin Powers	tt0118655	7	207701	MX	NA	0	movie	0	94	Adventure,Comedy
+25	Austin Powers	tt0118655	7	207701	MX	NA	0	movie	0	94	Adventure,Comedy
+26	Austin Powers	tt0118655	7	207701	US	NA	0	movie	0	94	Adventure,Comedy
+27	Austin Powers	tt0118655	7	207701	US	NA	0	movie	0	94	Adventure,Comedy
+28	Austin Powers	tt0118655	7	207701	AR	NA	0	movie	0	94	Adventure,Comedy
+29	Austin Powers	tt0118655	7	207701	AR	NA	0	movie	0	94	Adventure,Comedy
+30	Austin Powers	tt0118655	7	207701	SI	NA	0	movie	0	94	Adventure,Comedy
+31	Austin Powers	tt0118655	7	207701	SI	NA	0	movie	0	94	Adventure,Comedy
+32	Austin Powers	tt0118655	7	207701	DK	NA	0	movie	0	94	Adventure,Comedy
+33	Austin Powers	tt0118655	7	207701	DK	NA	0	movie	0	94	Adventure,Comedy
+34	Austin Powers	tt0118655	7	207701	FR	NA	0	movie	0	94	Adventure,Comedy
+35	Austin Powers	tt0118655	7	207701	FR	NA	0	movie	0	94	Adventure,Comedy
+36	Austin Powers	tt0118655	7	207701	CA	fr	0	movie	0	94	Adventure,Comedy
+37	Austin Powers	tt0118655	7	207701	CA	fr	0	movie	0	94	Adventure,Comedy
+38	Babe	tt0103747	5.9	8607	PL	NA	0	movie	0	115	Biography,Drama,Sport
+39	Babe	tt0103747	5.9	8607	HU	NA	0	movie	0	115	Biography,Drama,Sport
+40	Babe	tt1619607	6.3	7	US	NA	0	short	0	7	Comedy,Short
+41	Babe	tt0103747	5.9	8607	GR	NA	0	movie	0	115	Biography,Drama,Sport
+42	Batman	tt0060153	6.5	27611	IT	NA	0	movie	0	105	Adventure,Comedy,Crime
+43	Batman	tt0060153	6.5	27611	HU	NA	0	movie	0	105	Adventure,Comedy,Crime
+44	Batman	tt0060153	6.5	27611	MX	NA	0	movie	0	105	Adventure,Comedy,Crime
+45	Batman	tt0060153	6.5	27611	CO	NA	0	movie	0	105	Adventure,Comedy,Crime
+46	Batman	tt0060153	6.5	27611	CL	NA	0	movie	0	105	Adventure,Comedy,Crime
+47	Batman	tt0060153	6.5	27611	ES	NA	0	movie	0	105	Adventure,Comedy,Crime
+48	Batman	tt0035665	6.4	1669	UY	NA	0	movie	0	260	Action,Adventure,Crime
+49	Batman	tt0035665	6.4	1669	US	NA	0	movie	0	260	Action,Adventure,Crime
+50	Batman	tt0060153	6.5	27611	CA	fr	0	movie	0	105	Adventure,Comedy,Crime
+51	Batman	tt0035665	6.4	1669	NA	NA	1	movie	0	260	Action,Adventure,Crime
+52	Batman	tt0060153	6.5	27611	FI	NA	0	movie	0	105	Adventure,Comedy,Crime
+53	Batman	tt0060153	6.5	27611	BE	fr	0	movie	0	105	Adventure,Comedy,Crime
+54	Batman	tt0060153	6.5	27611	FR	NA	0	movie	0	105	Adventure,Comedy,Crime
+55	Batman	tt0060153	6.5	27611	UY	NA	0	movie	0	105	Adventure,Comedy,Crime
+56	Batman	tt0060153	6.5	27611	PT	NA	0	movie	0	105	Adventure,Comedy,Crime
+57	Candyman	tt0103919	6.6	59192	NA	NA	1	movie	0	99	Horror,Thriller
+58	Candyman	tt0103919	6.6	59192	GR	NA	0	movie	0	99	Horror,Thriller
+59	Candyman	tt0103919	6.6	59192	FR	NA	0	movie	0	99	Horror,Thriller
+60	Candyman	tt0103919	6.6	59192	MX	NA	0	movie	0	99	Horror,Thriller
+61	Candyman	tt0103919	6.6	59192	NL	NA	0	movie	0	99	Horror,Thriller
+62	Candyman	tt1524107	6.6	225	NZ	NA	0	movie	0	75	Biography,Documentary
+63	Candyman	tt0103919	6.6	59192	FI	NA	0	movie	0	99	Horror,Thriller
+64	Candyman	tt1524107	6.6	225	NA	NA	1	movie	0	75	Biography,Documentary
+65	Candyman	tt0103919	6.6	59192	HR	NA	0	movie	0	99	Horror,Thriller
+66	Candyman	tt3573138	6.5	19	US	NA	0	movie	0	103	Action,Mystery
+67	Candyman	tt0103919	6.6	59192	CZ	NA	0	movie	0	99	Horror,Thriller
+68	Candyman	tt0103919	6.6	59192	US	NA	0	movie	0	99	Horror,Thriller
+69	Candyman	tt0103919	6.6	59192	DK	NA	0	movie	0	99	Horror,Thriller
+70	Candyman	tt0103919	6.6	59192	PL	NA	0	movie	0	99	Horror,Thriller
+71	Carmen Miranda	tt0400278	7.5	8	BR	NA	0	short	0	18	Documentary,Short
+72	Carnosaur 3	tt0115834	3	1627	FR	NA	0	movie	0	85	Action,Horror,Sci-Fi
+73	Children of the Corn II	tt0106557	4.3	6991	US	NA	0	movie	0	92	Horror,Thriller
+74	Cocoon	tt0231931	6.9	1878	HK	en	0	short	0	20	Short
+75	Cocoon	tt0231931	6.9	1878	XWW	en	0	short	0	20	Short
+76	Crow	tt0435506	6.3	30	XWW	en	0	short	0	36	Documentary,Short
+77	Crow	tt0435506	6.3	30	XWW	en	0	short	0	36	Documentary,Short
+78	Ever After	tt7224520	5.4	109	XWW	en	0	movie	0	90	Horror
+79	FairyTale	tt0119095	6.5	5216	SE	NA	0	movie	0	99	Drama,Family,Fantasy
+80	Free Willy 2	tt0113114	5	15651	FI	NA	0	movie	0	95	Adventure,Drama,Family
+81	Free Willy 2	tt0113114	5	15651	IT	NA	0	movie	0	95	Adventure,Drama,Family
+82	Free Willy 3	tt0119152	4.7	8571	FI	NA	0	movie	0	86	Adventure,Drama,Family
+83	Friday the 13th	tt0006703	6	42	US	NA	0	movie	0	NA	Drama
+84	Friday the 13th	tt0024037	7	291	NA	NA	0	movie	0	89	Comedy,Drama
+85	Friday the 13th	tt7504834	6.6	11	US	NA	0	short	0	NA	Horror,Short
+86	Friday the 13th	tt0001632	6.4	37	US	NA	0	short	0	NA	Comedy,Short
+87	Friday the 13th	tt0137599	6.1	10	XWW	en	0	movie	0	85	Comedy,Crime
+88	Friday the 13th	tt0150644	6.2	11	US	NA	0	short	0	7	Animation,Short
+89	Friday the 13th	tt0006703	6	42	NA	NA	1	movie	0	NA	Drama
+90	Friday the 13th	tt7504834	6.6	11	NA	NA	1	short	0	NA	Horror,Short
+91	Friday the 13th Part VIII	tt0097388	4.6	29635	US	NA	0	movie	0	100	Adventure,Horror,Thriller
+92	Gate II	tt0099636	4.7	1635	CA	en	0	movie	0	90	Comedy,Fantasy,Horror
+93	Gate II	tt0099636	4.7	1635	NA	NA	0	movie	0	90	Comedy,Fantasy,Horror
+94	Geronimo	tt3565174	6.3	509	TR	tr	0	movie	0	107	Romance
+95	Geronimo	tt0031365	6	88	GR	NA	0	movie	0	89	Adventure,Drama,Western
+96	Geronimo	tt3565174	6.3	509	FR	NA	0	movie	0	107	Romance
+97	Geronimo	tt0418704	6.2	38	US	NA	0	movie	0	72	Drama
+98	Geronimo	tt0056016	5.9	923	CA	en	0	movie	0	101	Action,Biography,History
+99	Geronimo	tt0056016	5.9	923	NA	NA	1	movie	0	101	Action,Biography,History
+100	Geronimo	tt0056016	5.9	923	GR	NA	0	movie	0	101	Action,Biography,History
+101	Geronimo	tt0031365	6	88	AT	NA	0	movie	0	89	Adventure,Drama,Western
+102	Geronimo	tt0056016	5.9	923	RO	NA	0	movie	0	101	Action,Biography,History
+103	Geronimo	tt0056016	5.9	923	US	NA	0	movie	0	101	Action,Biography,History
+104	Geronimo	tt3565174	6.3	509	NA	NA	1	movie	0	107	Romance
+105	Geronimo	tt3565174	6.3	509	CA	fr	0	movie	0	107	Romance
+106	Geronimo	tt0056016	5.9	923	TR	tr	0	movie	0	101	Action,Biography,History
+107	Geronimo	tt2145948	7.9	7	US	NA	0	short	0	13	Drama,Fantasy,Short
+108	Geronimo	tt0031365	6	88	NA	NA	1	movie	0	89	Adventure,Drama,Western
+109	Ghost Dog	tt0165798	7.5	79641	AU	NA	0	movie	0	116	Action,Crime,Drama
+110	Ghost Dog	tt0165798	7.5	79641	BR	NA	0	movie	0	116	Action,Crime,Drama
+111	Ghost Dog	tt3611052	4.6	291	US	NA	0	movie	0	87	Adventure,Family,Fantasy
+112	Ghost Dog	tt0165798	7.5	79641	CL	NA	0	movie	0	116	Action,Crime,Drama
+113	Godfather	tt0442781	7.2	2232	NA	NA	0	movie	0	166	Action,Drama,Musical
+114	Godfather	tt0442781	7.2	2232	NA	NA	0	movie	0	166	Action,Drama,Musical
+115	Godfather	tt0353496	8.5	2392	IN	NA	0	movie	0	150	Comedy,Drama,Romance
+116	Godfather	tt0353496	8.5	2392	IN	NA	0	movie	0	150	Comedy,Drama,Romance
+117	Godfather	tt0353496	8.5	2392	NA	NA	1	movie	0	150	Comedy,Drama,Romance
+118	Godfather	tt0353496	8.5	2392	NA	NA	1	movie	0	150	Comedy,Drama,Romance
+119	Godfather	tt0250404	6.7	236	PK	NA	0	movie	0	NA	Crime,Drama
+120	Godfather	tt0250404	6.7	236	PK	NA	0	movie	0	NA	Crime,Drama
+121	Gold Diggers	tt0376717	2.9	2316	US	NA	0	movie	0	90	Comedy,Crime
+122	Gold Diggers	tt0139240	4.9	11	US	NA	0	movie	1	NA	Adult
+123	Gold Diggers	tt0024069	8	6591	DK	NA	0	movie	0	97	Comedy,Drama,Musical
+124	Gold Diggers	tt0376717	2.9	2316	US	en	0	movie	0	90	Comedy,Crime
+125	Gold Diggers	tt0278597	6	1549	SE	NA	0	movie	0	97	Comedy
+126	Gold Diggers	tt0376717	2.9	2316	GB	NA	0	movie	0	90	Comedy,Crime
+127	Gold Diggers	tt1505380	6.3	29	XWW	en	0	movie	0	100	Comedy
+128	Gold Diggers	tt0376717	2.9	2316	XWW	en	0	movie	0	90	Comedy,Crime
+129	Gremlins 2	tt0099700	6.4	84405	NO	NA	0	movie	0	106	Comedy,Fantasy,Horror
+130	Gremlins 2	tt0099700	6.4	84405	US	NA	0	movie	0	106	Comedy,Fantasy,Horror
+131	Gremlins 2	tt0099700	6.4	84405	CZ	NA	0	movie	0	106	Comedy,Fantasy,Horror
+132	Gremlins 2	tt0099700	6.4	84405	XWW	en	0	movie	0	106	Comedy,Fantasy,Horror
+133	Halloween	tt0418716	8.9	22	US	NA	0	short	0	NA	Short
+134	Halloween	tt0418716	8.9	22	US	NA	0	short	0	NA	Short
+135	Halloween	tt0373883	6.1	102576	DE	NA	0	movie	0	109	Horror
+136	Halloween	tt0373883	6.1	102576	DE	NA	0	movie	0	109	Horror
+137	Halloween	tt0373883	6.1	102576	CA	fr	0	movie	0	109	Horror
+138	Halloween	tt0373883	6.1	102576	CA	fr	0	movie	0	109	Horror
+139	Halloween	tt0373883	6.1	102576	TR	tr	0	movie	0	109	Horror
+140	Halloween	tt0373883	6.1	102576	TR	tr	0	movie	0	109	Horror
+141	Halloween	tt0373883	6.1	102576	NA	NA	1	movie	0	109	Horror
+142	Halloween	tt0373883	6.1	102576	NA	NA	1	movie	0	109	Horror
+143	Halloween	tt0373883	6.1	102576	JP	en	0	movie	0	109	Horror
+144	Halloween	tt0373883	6.1	102576	JP	en	0	movie	0	109	Horror
+145	Halloween	tt0373883	6.1	102576	US	NA	0	movie	0	109	Horror
+146	Halloween	tt0373883	6.1	102576	US	NA	0	movie	0	109	Horror
+147	Halloween	tt0150814	5.9	45	NA	NA	1	short	0	7	Animation,Comedy,Family
+148	Halloween	tt0150814	5.9	45	NA	NA	1	short	0	7	Animation,Comedy,Family
+149	Halloween	tt0373883	6.1	102576	CZ	NA	0	movie	0	109	Horror
+150	Halloween	tt0373883	6.1	102576	CZ	NA	0	movie	0	109	Horror
+151	Halloween	tt0373883	6.1	102576	PT	NA	0	movie	0	109	Horror
+152	Halloween	tt0373883	6.1	102576	PT	NA	0	movie	0	109	Horror
+153	Halloween	tt0150814	5.9	45	US	NA	0	short	0	7	Animation,Comedy,Family
+154	Halloween	tt0150814	5.9	45	US	NA	0	short	0	7	Animation,Comedy,Family
+155	Halloween	tt0373883	6.1	102576	HU	NA	0	movie	0	109	Horror
+156	Halloween	tt0373883	6.1	102576	HU	NA	0	movie	0	109	Horror
+157	Halloween 5	tt0097474	5.2	30892	FR	NA	0	movie	0	96	Horror,Thriller
+158	Halloween 5	tt0097474	5.2	30892	MX	NA	0	movie	0	96	Horror,Thriller
+159	Hellraiser III	tt0104409	5.5	24891	MX	NA	0	movie	0	97	Horror
+160	Henry	tt1546987	7.3	10	US	NA	0	movie	0	45	Drama
+161	Henry	tt1546987	7.3	10	US	NA	0	movie	0	45	Drama
+162	Henry	tt1559343	7.7	9	GB	NA	0	short	0	7	Drama,Short
+163	Henry	tt1559343	7.7	9	GB	NA	0	short	0	7	Drama,Short
+164	Henry	tt0206009	6.5	53	GB	NA	0	short	0	6	Short
+165	Henry	tt0206009	6.5	53	GB	NA	0	short	0	6	Short
+166	Henry	tt1640130	6.3	58	IT	NA	0	movie	0	86	Action,Comedy
+167	Henry	tt1640130	6.3	58	IT	NA	0	movie	0	86	Action,Comedy
+168	Henry	tt2004244	7.4	645	NA	NA	1	short	0	21	Drama,Short
+169	Henry	tt2004244	7.4	645	NA	NA	1	short	0	21	Drama,Short
+170	Henry	tt2004244	7.4	645	CA	NA	0	short	0	21	Drama,Short
+171	Henry	tt2004244	7.4	645	CA	NA	0	short	0	21	Drama,Short
+172	Henry	tt1546987	7.3	10	NA	NA	1	movie	0	45	Drama
+173	Henry	tt1546987	7.3	10	NA	NA	1	movie	0	45	Drama
+174	Henry	tt5127000	7.2	10	AT	NA	0	movie	0	53	Drama,Music
+175	Henry	tt5127000	7.2	10	AT	NA	0	movie	0	53	Drama,Music
+176	Henry	tt1570594	5.4	51	FR	NA	0	movie	0	84	NA
+177	Henry	tt1570594	5.4	51	FR	NA	0	movie	0	84	NA
+178	Henry	tt1979243	6.9	16	US	NA	0	short	0	14	Short
+179	Henry	tt1979243	6.9	16	US	NA	0	short	0	14	Short
+180	Henry	tt4733682	7.4	22	US	NA	0	short	0	NA	Animation,Comedy,Short
+181	Henry	tt4733682	7.4	22	US	NA	0	short	0	NA	Animation,Comedy,Short
+182	Home Alone 2	tt0104431	6.7	264614	US	NA	0	movie	0	120	Adventure,Comedy,Family
+183	Home Alone 2	tt2109140	5.1	21	US	NA	0	short	0	14	Drama,Short
+184	Home Alone 2	tt2109140	5.1	21	NA	NA	1	short	0	14	Drama,Short
+185	Homeward Bound	tt0014138	5.2	20	NA	NA	1	movie	0	70	Adventure,Drama,Romance
+186	Homeward Bound	tt0014138	5.2	20	US	NA	0	movie	0	70	Adventure,Drama,Romance
+187	Kama Sutra	tt0116743	6	9353	FI	NA	0	movie	0	117	Crime,Drama,History
+188	Kama Sutra	tt0116743	6	9353	BR	NA	0	movie	0	117	Crime,Drama,History
+189	Kama Sutra	tt0169122	3.4	379	HU	NA	0	movie	0	95	Drama,Romance
+190	Kama Sutra	tt0116743	6	9353	TR	tr	0	movie	0	117	Crime,Drama,History
+191	Kama Sutra	tt0064532	4.3	47	US	NA	0	movie	0	90	Drama
+192	Killer	tt0214853	6.5	112	IN	NA	0	movie	0	160	Action,Crime,Drama
+193	Killer	tt5262444	7.2	245	NA	NA	1	short	0	20	Comedy,Drama,Short
+194	Killer	tt0157124	6.8	234	US	NA	0	movie	0	80	Action,Crime,Drama
+195	Killer	tt0097202	7.8	43206	PL	NA	0	movie	0	111	Action,Crime,Drama
+196	Killer	tt5262444	7.2	245	US	NA	0	short	0	20	Comedy,Drama,Short
+197	Killer	tt3487610	6.2	1643	NA	NA	0	movie	0	89	Horror
+198	Killer	tt0127626	7.6	4844	DE	NA	0	movie	0	104	Action,Comedy,Crime
+199	Killer	tt0187206	5.7	7	DE	NA	0	short	0	14	Crime,Drama,Short
+200	Killer	tt2225630	7.8	12	US	NA	0	short	0	29	Action,Drama,Short
+201	Killer	tt0284235	5.5	62	US	NA	0	movie	0	88	Crime
+202	Leatherface	tt2620590	5	16520	AU	NA	0	movie	0	90	Crime,Horror,Thriller
+203	Leatherface	tt2620590	5	16520	GB	NA	0	movie	0	90	Crime,Horror,Thriller
+204	Leatherface	tt2620590	5	16520	FR	NA	0	movie	0	90	Crime,Horror,Thriller
+205	Leatherface	tt2620590	5	16520	US	NA	0	movie	0	90	Crime,Horror,Thriller
+206	Leatherface	tt2620590	5	16520	DK	NA	0	movie	0	90	Crime,Horror,Thriller
+207	Leatherface	tt0019501	7	14	US	NA	0	movie	0	98	Action,Drama,History
+208	Leatherface	tt2620590	5	16520	NO	NA	0	movie	0	90	Crime,Horror,Thriller
+209	Leatherface	tt2620590	5	16520	DE	NA	0	movie	0	90	Crime,Horror,Thriller
+210	Leatherface	tt0099994	5.2	12501	US	NA	0	movie	0	85	Horror,Thriller
+211	Leatherface	tt2620590	5	16520	NA	NA	1	movie	0	90	Crime,Horror,Thriller
+212	Leatherface	tt0139419	6.1	7	NA	NA	1	movie	0	166	Action,Adventure
+213	Leatherface	tt2620590	5	16520	ES	NA	0	movie	0	90	Crime,Horror,Thriller
+214	Little Nemo	tt0104740	7.2	6269	NA	NA	1	movie	0	85	Adventure,Animation,Drama
+215	Little Nemo	tt0104740	7.2	6269	JP	en	0	movie	0	85	Adventure,Animation,Drama
+216	Little Nemo	tt0001737	7.2	1377	US	NA	0	short	0	7	Animation,Comedy,Short
+217	Madonna	tt0100088	4.6	63	US	NA	0	movie	0	90	Drama,Thriller
+218	Madonna	tt0210579	6	232	XWW	en	0	movie	0	85	Drama,War
+219	Madonna	tt4636074	6	152	KR	NA	0	movie	0	121	Drama
+220	Major League	tt0097815	7.2	56964	NA	NA	1	movie	0	107	Comedy,Sport
+221	Major League	tt0097815	7.2	56964	US	NA	0	movie	0	107	Comedy,Sport
+222	Marlene Dietrich	tt0228415	8.6	36	XWG	NA	0	movie	0	60	Documentary,Music
+223	Message to Love	tt0117028	7.6	520	GB	NA	0	movie	0	127	Documentary,History,Music
+224	Messenger	tt5361488	5.4	556	JP	en	0	movie	0	103	Mystery,Sci-Fi,Thriller
+225	Mission	tt0055056	6.8	18	NA	NA	0	movie	0	91	Drama
+226	Mission	tt0055056	6.8	18	NA	NA	0	movie	0	91	Drama
+227	Mission	tt3483700	6.3	6	GB	NA	0	short	0	22	Drama,Short
+228	Mission	tt3483700	6.3	6	GB	NA	0	short	0	22	Drama,Short
+229	Mission	tt0317485	6.9	14	JP	en	0	short	0	5	Comedy,Short
+230	Mission	tt0317485	6.9	14	JP	en	0	short	0	5	Comedy,Short
+231	Mission	tt0208866	6.5	31	US	NA	0	movie	0	89	NA
+232	Mission	tt0208866	6.5	31	US	NA	0	movie	0	89	NA
+233	Mission	tt0208866	6.5	31	NA	NA	1	movie	0	89	NA
+234	Mission	tt0208866	6.5	31	NA	NA	1	movie	0	89	NA
+235	Mortal Kombat	tt0113855	5.8	94075	MX	NA	0	movie	0	101	Action,Adventure,Fantasy
+236	Mortal Kombat	tt0113855	5.8	94075	HU	NA	0	movie	0	101	Action,Adventure,Fantasy
+237	Mortal Kombat	tt0113855	5.8	94075	US	NA	0	movie	0	101	Action,Adventure,Fantasy
+238	Mortal Kombat	tt0113855	5.8	94075	FI	NA	0	movie	0	101	Action,Adventure,Fantasy
+239	Mortal Kombat	tt0113855	5.8	94075	DK	NA	0	movie	0	101	Action,Adventure,Fantasy
+240	Mortal Kombat	tt0113855	5.8	94075	ES	NA	0	movie	0	101	Action,Adventure,Fantasy
+241	Mortal Kombat	tt0113855	5.8	94075	NA	NA	1	movie	0	101	Action,Adventure,Fantasy
+242	Mortal Kombat	tt0113855	5.8	94075	FR	NA	0	movie	0	101	Action,Adventure,Fantasy
+243	Mr. Death	tt0192335	7.5	5158	US	NA	0	movie	0	91	Biography,Documentary
+244	Mr. Death	tt7086072	6.7	7	NO	NA	0	short	0	15	Comedy,Documentary,Drama
+245	Naked Gun	tt0049539	6.8	177	US	NA	0	movie	0	69	Western
+246	Naked Gun	tt0049539	6.8	177	NA	NA	1	movie	0	69	Western
+247	Nightmare on Elm Street 5	tt0097981	5.2	36865	PH	en	0	movie	0	89	Fantasy,Horror
+248	Paradise Lost	tt0454970	5.4	34324	GB	NA	0	movie	0	93	Horror,Mystery,Thriller
+249	Paradise Lost	tt0032888	7.1	138	GB	NA	0	movie	0	103	Drama,Romance,War
+250	Paradise Lost	tt0479736	8.3	18	XWW	en	0	movie	0	54	Documentary
+251	Paradise Lost	tt0120120	6.7	440	US	NA	0	movie	0	119	Drama,Romance
+252	Paradise Lost	tt0454970	5.4	34324	FR	NA	0	movie	0	93	Horror,Mystery,Thriller
+253	Paradise Lost	tt0180897	5.2	229	NA	NA	1	movie	0	105	Drama,Mystery,Sci-Fi
+254	Paradise Lost	tt0311620	7.4	14	CA	NA	0	short	0	4	Animation,Short
+255	Paradise Lost	tt0479736	8.3	18	NA	NA	1	movie	0	54	Documentary
+256	Paradise Lost	tt0105096	6.4	14	NA	NA	0	movie	0	90	Drama
+257	Paradise Lost	tt0328417	4.6	16	XWW	en	0	movie	0	100	NA
+258	Paradise Lost	tt0232274	6.2	11	XWW	en	0	short	0	12	Short
+259	Paradise Lost	tt8513302	7.1	289	XWW	en	0	movie	0	110	Drama,Music,Musical
+260	Paradise Lost	tt0180897	5.2	229	US	NA	0	movie	0	105	Drama,Mystery,Sci-Fi
+261	Phantasm IV	tt0138703	5.7	6016	FR	NA	0	movie	0	90	Fantasy,Horror,Sci-Fi
+262	Phantasm IV	tt0138703	5.7	6016	DE	NA	0	movie	0	90	Fantasy,Horror,Sci-Fi
+263	Phantasm IV	tt0138703	5.7	6016	NA	NA	0	movie	0	90	Fantasy,Horror,Sci-Fi
+264	Poison Ivy	tt0105156	5.4	16041	NA	NA	1	movie	0	90	Drama,Thriller
+265	Poison Ivy	tt0105156	5.4	16041	US	NA	0	movie	0	90	Drama,Thriller
+266	Poison Ivy	tt0046115	6	234	US	NA	0	movie	0	97	Crime,Drama,Thriller
+267	Rage	tt5994486	5	30	XWW	en	0	movie	0	80	Drama,Thriller
+268	Rage	tt0114224	5.7	508	NA	NA	1	movie	0	94	Action,Crime,Thriller
+269	Rage	tt0218920	6.6	23	XWW	en	0	movie	0	102	Crime,Drama,Thriller
+270	Rage	tt0343199	7.6	40	XEU	en	0	movie	0	90	Crime,Drama
+271	Rage	tt2015468	2.4	18	AM	NA	0	movie	0	110	Horror
+272	Rage	tt0114224	5.7	508	FR	NA	0	movie	0	94	Action,Crime,Thriller
+273	Rage	tt7844166	6.2	1543	FR	fr	0	movie	0	105	Action,Drama,Fantasy
+274	Rage	tt0060882	6.3	224	NA	NA	1	movie	0	103	Drama,Thriller
+275	Rage	tt0126821	6.1	30	US	NA	0	movie	0	90	Action,Adventure,Drama
+276	Rage	tt0102638	6.5	1364	FR	NA	0	movie	0	100	Drama
+277	Rage	tt2050601	7	26	NZ	NA	0	movie	0	95	Drama
+278	Rage	tt0114224	5.7	508	NL	NA	0	movie	0	94	Action,Crime,Thriller
+279	Rage	tt0203620	7	194	XWW	en	0	movie	0	89	Action,Crime
+280	Rage	tt0232236	5.1	43	XWW	en	0	movie	0	118	Drama
+281	Rage	tt2015468	2.4	18	NA	NA	1	movie	0	110	Horror
+282	Rage	tt0317535	4.7	221	SE	NA	0	movie	0	105	Drama,Romance
+283	Rage	tt0114224	5.7	508	US	NA	0	movie	0	94	Action,Crime,Thriller
+284	Rage	tt6000292	5.8	23	BE	NA	0	movie	0	144	Documentary
+285	Rage	tt0188568	6.9	1604	XWW	en	0	movie	0	97	Action
+286	Rage	tt5199850	6.4	7	US	NA	0	short	0	17	Action,Drama,Short
+287	Rage	tt0215108	5.9	72	GB	NA	0	movie	0	120	Drama
+288	Rage	tt5553810	6.9	124	XWW	en	0	movie	0	84	Drama
+289	Rage	tt0060882	6.3	224	CA	en	0	movie	0	103	Drama,Thriller
+290	Rambo	tt0389308	5.7	15	US	NA	0	short	0	NA	Short
+291	Rambo	tt0462499	7	202349	CA	fr	0	movie	0	92	Action,Thriller,War
+292	Rambo	tt0462499	7	202349	BR	NA	0	movie	0	92	Action,Thriller,War
+293	Rambo	tt3107798	6.3	61	IN	NA	0	movie	0	144	Comedy,Drama,Thriller
+294	Rambo	tt0462499	7	202349	NA	NA	1	movie	0	92	Action,Thriller,War
+295	Rambo	tt0462499	7	202349	VE	NA	0	movie	0	92	Action,Thriller,War
+296	Rambo	tt0462499	7	202349	FI	NA	0	movie	0	92	Action,Thriller,War
+297	Rambo	tt0462499	7	202349	DK	NA	0	movie	0	92	Action,Thriller,War
+298	Robin Hood	tt0029843	8	44034	AU	NA	0	movie	0	102	Action,Adventure,Romance
+299	Robin Hood	tt0029843	8	44034	AU	NA	0	movie	0	102	Action,Adventure,Romance
+300	Robin Hood	tt0013556	7.5	1861	AT	NA	0	movie	0	143	Adventure,Family,Romance
+301	Robin Hood	tt0013556	7.5	1861	AT	NA	0	movie	0	143	Adventure,Family,Romance
+302	Robin Hood	tt0029843	8	44034	HU	NA	0	movie	0	102	Action,Adventure,Romance
+303	Robin Hood	tt0029843	8	44034	HU	NA	0	movie	0	102	Action,Adventure,Romance
+304	Robin Hood	tt0152201	5.5	11	US	NA	0	short	0	NA	Animation,Short
+305	Robin Hood	tt0152201	5.5	11	US	NA	0	short	0	NA	Animation,Short
+306	Robin Hood	tt0029843	8	44034	CSHH	NA	0	movie	0	102	Action,Adventure,Romance
+307	Robin Hood	tt0029843	8	44034	CSHH	NA	0	movie	0	102	Action,Adventure,Romance
+308	Robin Hood	tt0013556	7.5	1861	HU	NA	0	movie	0	143	Adventure,Family,Romance
+309	Robin Hood	tt0013556	7.5	1861	HU	NA	0	movie	0	143	Adventure,Family,Romance
+310	Robin Hood	tt0130489	6.7	32	NA	NA	0	movie	0	146	Action,Romance
+311	Robin Hood	tt0130489	6.7	32	NA	NA	0	movie	0	146	Action,Romance
+312	Robin Hood	tt0045197	6.9	1129	SE	NA	0	movie	0	84	Action,Adventure,Family
+313	Robin Hood	tt0045197	6.9	1129	SE	NA	0	movie	0	84	Action,Adventure,Family
+314	Robin Hood	tt0029843	8	44034	SI	NA	0	movie	0	102	Action,Adventure,Romance
+315	Robin Hood	tt0029843	8	44034	SI	NA	0	movie	0	102	Action,Adventure,Romance
+316	Robin Hood	tt0003337	5.7	29	US	NA	0	movie	0	NA	Adventure
+317	Robin Hood	tt0003337	5.7	29	US	NA	0	movie	0	NA	Adventure
+318	Robin Hood	tt0179455	5.8	31	US	NA	0	short	0	14	Action,Adventure,Short
+319	Robin Hood	tt0179455	5.8	31	US	NA	0	short	0	14	Action,Adventure,Short
+320	Robin Hood	tt0029843	8	44034	DK	NA	0	movie	0	102	Action,Adventure,Romance
+321	Robin Hood	tt0029843	8	44034	DK	NA	0	movie	0	102	Action,Adventure,Romance
+322	Robin Hood	tt0003337	5.7	29	NA	NA	1	movie	0	NA	Adventure
+323	Robin Hood	tt0003337	5.7	29	NA	NA	1	movie	0	NA	Adventure
+324	Robin Hood	tt0013556	7.5	1861	DK	NA	0	movie	0	143	Adventure,Family,Romance
+325	Robin Hood	tt0013556	7.5	1861	DK	NA	0	movie	0	143	Adventure,Family,Romance
+326	Robin Hood	tt0013556	7.5	1861	US	NA	0	movie	0	143	Adventure,Family,Romance
+327	Robin Hood	tt0013556	7.5	1861	US	NA	0	movie	0	143	Adventure,Family,Romance
+328	Robin Hood	tt0013556	7.5	1861	BR	NA	0	movie	0	143	Adventure,Family,Romance
+329	Robin Hood	tt0013556	7.5	1861	BR	NA	0	movie	0	143	Adventure,Family,Romance
+330	Robin Hood	tt0013556	7.5	1861	DE	NA	0	movie	0	143	Adventure,Family,Romance
+331	Robin Hood	tt0013556	7.5	1861	DE	NA	0	movie	0	143	Adventure,Family,Romance
+332	Robin Hood	tt0102797	5.8	4289	NA	NA	1	movie	0	104	Action,Adventure,Drama
+333	Robin Hood	tt0102797	5.8	4289	NA	NA	1	movie	0	104	Action,Adventure,Drama
+334	Robin Hood	tt0065420	6.5	257	SE	NA	0	movie	0	103	Adventure
+335	Robin Hood	tt0065420	6.5	257	SE	NA	0	movie	0	103	Adventure
+336	Robin Hood	tt0029843	8	44034	NL	NA	0	movie	0	102	Action,Adventure,Romance
+337	Robin Hood	tt0029843	8	44034	NL	NA	0	movie	0	102	Action,Adventure,Romance
+338	Robin Hood	tt0002465	5.8	22	US	NA	0	short	0	30	Adventure,Drama,Romance
+339	Robin Hood	tt0002465	5.8	22	US	NA	0	short	0	30	Adventure,Drama,Romance
+340	Robin Hood	tt0102797	5.8	4289	PL	NA	0	movie	0	104	Action,Adventure,Drama
+341	Robin Hood	tt0102797	5.8	4289	PL	NA	0	movie	0	104	Action,Adventure,Drama
+342	Robin Hood	tt0013556	7.5	1861	NA	NA	1	movie	0	143	Adventure,Family,Romance
+343	Robin Hood	tt0013556	7.5	1861	NA	NA	1	movie	0	143	Adventure,Family,Romance
+344	Robin Hood	tt0146249	7.3	53	GB	NA	0	movie	0	NA	Animation
+345	Robin Hood	tt0146249	7.3	53	GB	NA	0	movie	0	NA	Animation
+346	Santa Claus	tt0053241	2.6	4284	NA	NA	1	movie	0	94	Comedy,Family,Fantasy
+347	Santa Claus	tt0053241	2.6	4284	MX	NA	0	movie	0	94	Comedy,Family,Fantasy
+348	Santa Claus	tt3532850	6.3	559	HK	en	0	movie	0	80	Comedy
+349	Speed 2	tt0120179	3.8	69843	ES	NA	0	movie	0	121	Action,Adventure,Crime
+350	Steam	tt5666384	2.8	11	US	NA	0	short	0	3	Short
+351	Terminator 2	tt0103064	8.5	911709	PL	NA	0	movie	0	137	Action,Sci-Fi
+352	Terminator 2	tt0098321	4.7	982	ES	NA	0	movie	0	90	Action,Adventure,Horror
+353	Terminator 2	tt0103064	8.5	911709	ES	ca	0	movie	0	137	Action,Sci-Fi
+354	Terminator 2	tt0103064	8.5	911709	JP	en	0	movie	0	137	Action,Sci-Fi
+355	Three Colors	tt2234535	4.1	16	AM	NA	0	short	0	14	Drama,Short
+356	Three Colors	tt2234535	4.1	16	AM	NA	0	short	0	14	Drama,Short
+357	Three Colors	tt2234535	4.1	16	AM	NA	0	short	0	14	Drama,Short
+358	Three Colors	tt2234535	4.1	16	NA	NA	1	short	0	14	Drama,Short
+359	Three Colors	tt2234535	4.1	16	NA	NA	1	short	0	14	Drama,Short
+360	Three Colors	tt2234535	4.1	16	NA	NA	1	short	0	14	Drama,Short
+361	Transformers	tt0418279	7.1	570402	ES	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+362	Transformers	tt0418279	7.1	570402	FR	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+363	Transformers	tt0418279	7.1	570402	PE	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+364	Transformers	tt0418279	7.1	570402	PT	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+365	Transformers	tt1843316	7.7	532	US	NA	0	short	0	11	Action,Adventure,Sci-Fi
+366	Transformers	tt0418279	7.1	570402	TR	tr	0	movie	0	144	Action,Adventure,Sci-Fi
+367	Transformers	tt0418279	7.1	570402	NA	NA	1	movie	0	144	Action,Adventure,Sci-Fi
+368	Transformers	tt0418279	7.1	570402	MX	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+369	Transformers	tt0418279	7.1	570402	UY	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+370	Transformers	tt0418279	7.1	570402	VE	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+371	Transformers	tt0418279	7.1	570402	US	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+372	Transformers	tt0418279	7.1	570402	DE	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+373	Transformers	tt0418279	7.1	570402	GR	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+374	Transformers	tt0418279	7.1	570402	BR	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+375	Transformers	tt0418279	7.1	570402	AR	NA	0	movie	0	144	Action,Adventure,Sci-Fi
+376	Turbo	tt1860353	6.4	74896	VE	NA	0	movie	0	96	Adventure,Animation,Comedy
+377	Turbo	tt1860353	6.4	74896	PL	NA	0	movie	0	96	Adventure,Animation,Comedy
+378	Turbo	tt1860353	6.4	74896	TR	tr	0	movie	0	96	Adventure,Animation,Comedy
+379	Turbo	tt1860353	6.4	74896	AR	NA	0	movie	0	96	Adventure,Animation,Comedy
+380	Turbo	tt1860353	6.4	74896	PT	NA	0	movie	0	96	Adventure,Animation,Comedy
+381	Turbo	tt1860353	6.4	74896	CL	NA	0	movie	0	96	Adventure,Animation,Comedy
+382	Turbo	tt1860353	6.4	74896	UY	NA	0	movie	0	96	Adventure,Animation,Comedy
+383	Turbo	tt1860353	6.4	74896	GR	NA	0	movie	0	96	Adventure,Animation,Comedy
+384	Turbo	tt1860353	6.4	74896	RO	NA	0	movie	0	96	Adventure,Animation,Comedy
+385	Turbo	tt1860353	6.4	74896	ES	NA	0	movie	0	96	Adventure,Animation,Comedy
+386	Turbo	tt1860353	6.4	74896	HR	NA	0	movie	0	96	Adventure,Animation,Comedy
+387	Turbo	tt1860353	6.4	74896	BE	NA	0	movie	0	96	Adventure,Animation,Comedy
+388	Turbo	tt1860353	6.4	74896	US	NA	0	movie	0	96	Adventure,Animation,Comedy
+389	Turbo	tt1860353	6.4	74896	NO	NA	0	movie	0	96	Adventure,Animation,Comedy
+390	Turbo	tt1860353	6.4	74896	MX	NA	0	movie	0	96	Adventure,Animation,Comedy
+391	Turbo	tt1860353	6.4	74896	CA	fr	0	movie	0	96	Adventure,Animation,Comedy
+392	Turbo	tt1860353	6.4	74896	RS	NA	0	movie	0	96	Adventure,Animation,Comedy
+393	Turbo	tt1860353	6.4	74896	NA	NA	1	movie	0	96	Adventure,Animation,Comedy
+394	Under Siege 2	tt0114781	5.5	41230	NA	NA	0	movie	0	100	Action,Thriller
+395	Universal Soldier	tt0105698	6	77683	NA	NA	1	movie	0	102	Action,Sci-Fi
+396	Universal Soldier	tt0105698	6	77683	DK	NA	0	movie	0	102	Action,Sci-Fi
+397	Universal Soldier	tt0105698	6	77683	FR	NA	0	movie	0	102	Action,Sci-Fi
+398	Universal Soldier	tt0183948	4.6	147	NA	NA	1	movie	0	94	Action,Drama,War
+399	Universal Soldier	tt0176269	4.2	26599	IT	NA	0	movie	0	83	Action,Sci-Fi
+400	Universal Soldier	tt0105698	6	77683	US	NA	0	movie	0	102	Action,Sci-Fi
+401	Universal Soldier	tt0183948	4.6	147	GB	NA	0	movie	0	94	Action,Drama,War
+402	Universal Soldier	tt0183948	4.6	147	SE	NA	0	movie	0	94	Action,Drama,War
+403	Universal Soldier	tt0105698	6	77683	DE	NA	0	movie	0	102	Action,Sci-Fi
+404	Urban Legends	tt0146336	5.5	55435	US	NA	0	movie	0	99	Horror,Mystery
+405	Wallace & Gromit	tt0312004	7.5	115894	NL	NA	0	movie	0	85	Adventure,Animation,Comedy
+406	Wanted	tt0120477	4.3	106	NA	NA	1	movie	0	87	Action,Comedy
+407	Wanted	tt0493464	6.7	340513	US	NA	0	movie	0	110	Action,Crime,Fantasy
+408	Wanted	tt1831825	4.5	95	IN	NA	0	movie	0	160	Action,Drama
+409	Wanted	tt0062047	6.2	277	DK	NA	0	movie	0	107	Action,Drama,Romance
+410	Wanted	tt1831825	4.5	95	NA	NA	1	movie	0	160	Action,Drama
+411	Wanted	tt0493464	6.7	340513	CZ	NA	0	movie	0	110	Action,Crime,Fantasy
+412	Wanted	tt0276290	4.7	41	US	NA	0	movie	0	112	Action,Drama,Thriller
+413	Wanted	tt0493464	6.7	340513	NO	NA	0	movie	0	110	Action,Crime,Fantasy
+414	Wanted	tt0310924	6.6	5122	FR	NA	0	movie	0	105	Action,Comedy,Crime
+415	Wanted	tt0493464	6.7	340513	TR	tr	0	movie	0	110	Action,Crime,Fantasy
+416	Wanted	tt0493464	6.7	340513	GR	NA	0	movie	0	110	Action,Crime,Fantasy
+417	Wanted	tt0339882	6.9	34	US	NA	0	movie	0	127	NA
+418	Wanted	tt0062047	6.2	277	GR	NA	0	movie	0	107	Action,Drama,Romance
+419	Wanted	tt0399865	3.9	9	GB	NA	0	short	0	30	Short
+420	Wanted	tt0449493	7.6	59	US	NA	0	short	0	NA	Crime,Sci-Fi,Short
+421	Wanted	tt0019983	5.3	253	IE	en	0	movie	0	63	Crime,Drama,Romance
+422	Wanted	tt0062047	6.2	277	NA	NA	1	movie	0	107	Action,Drama,Romance
+423	Wanted	tt0493464	6.7	340513	SK	NA	0	movie	0	110	Action,Crime,Fantasy
+424	Wanted	tt0310924	6.6	5122	SE	NA	0	movie	0	105	Action,Comedy,Crime
+425	Wanted	tt0062047	6.2	277	IT	NA	0	movie	0	107	Action,Drama,Romance
+426	Wanted	tt0103345	5.6	34	NA	NA	0	movie	0	74	Comedy
+427	Wanted	tt0062047	6.2	277	SE	NA	0	movie	0	107	Action,Drama,Romance
+428	Wanted	tt0120477	4.3	106	KR	NA	0	movie	0	87	Action,Comedy
+429	Wanted	tt0425634	4.9	145	IN	NA	0	movie	0	NA	Action,Crime,Thriller
+430	Wanted	tt0019983	5.3	253	GB	NA	0	movie	0	63	Crime,Drama,Romance
+431	Wanted	tt0153644	4.3	116	NA	NA	1	movie	0	92	Drama,Thriller
+432	Wanted	tt0131254	7.7	15	US	NA	0	movie	1	80	Adult
+433	Wanted	tt1737267	6.3	272	IN	NA	0	movie	0	110	Action
+434	Wanted	tt0153644	4.3	116	US	NA	0	movie	0	92	Drama,Thriller
+435	Wanted	tt0214292	6.9	379	AT	NA	0	movie	0	90	Fantasy
+436	Wanted	tt0493464	6.7	340513	NA	NA	1	movie	0	110	Action,Crime,Fantasy
+437	Wanted	tt0493464	6.7	340513	JP	en	0	movie	0	110	Action,Crime,Fantasy
+438	Wanted	tt0062047	6.2	277	XWG	NA	0	movie	0	107	Action,Drama,Romance
+439	Wanted	tt0310924	6.6	5122	ES	NA	0	movie	0	105	Action,Comedy,Crime
+440	X	tt0104797	7.7	75963	US	NA	0	movie	0	202	Biography,Drama,History
+441	X	tt1661099	5.6	6567	NA	NA	1	movie	0	90	Crime,Drama,Thriller
+442	X	tt0057693	6.7	5489	NA	NA	1	movie	0	79	Horror,Sci-Fi,Thriller
+443	X	tt0118200	6.2	2369	US	NA	0	movie	0	100	Action,Animation,Fantasy
+444	X	tt0118200	6.2	2369	JP	en	0	movie	0	100	Action,Animation,Fantasy
+445	X	tt4738120	7.1	15	AT	NA	0	short	0	21	Drama,Short
+446	X	tt0118200	6.2	2369	GB	NA	0	movie	0	100	Action,Animation,Fantasy
+447	X	tt0118200	6.2	2369	GR	NA	0	movie	0	100	Action,Animation,Fantasy
+448	X	tt2788984	5.9	16	DE	NA	0	short	0	7	Animation,Music,Sci-Fi
+449	X	tt1661099	5.6	6567	AU	NA	0	movie	0	90	Crime,Drama,Thriller
+450	X	tt1671553	5.9	7	DE	NA	0	short	0	7	Animation,Short
+451	X	tt0118200	6.2	2369	AU	NA	0	movie	0	100	Action,Animation,Fantasy
+452	X	tt0057693	6.7	5489	US	NA	0	movie	0	79	Horror,Sci-Fi,Thriller
+453	X	tt0326430	5.9	169	NA	NA	1	movie	0	100	Crime,Thriller
+454	X	tt0025546	7	391	SE	NA	0	movie	0	84	Comedy,Crime,Mystery
+455	X	tt0118200	6.2	2369	CA	en	0	movie	0	100	Action,Animation,Fantasy
+456	X	tt0326430	5.9	169	ES	NA	0	movie	0	100	Crime,Thriller
+457	Xiu Xiu	tt0356203	7.1	8	XWW	en	0	movie	0	NA	Drama
+458	Xiu Xiu	tt0356203	7.1	8	HK	en	0	movie	0	NA	Drama
+459	Xiu Xiu	tt0115005	7.5	2978	PL	NA	0	movie	0	99	Drama
+460	Xiu Xiu	tt0115005	7.5	2978	ES	NA	0	movie	0	99	Drama
+461	Xiu Xiu	tt0115005	7.5	2978	HU	NA	0	movie	0	99	Drama
+462	Xiu Xiu	tt0115005	7.5	2978	AR	NA	0	movie	0	99	Drama
+463	Xiu Xiu	tt0115005	7.5	2978	FR	NA	0	movie	0	99	Drama
